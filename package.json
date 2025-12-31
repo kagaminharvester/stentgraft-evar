@@ -1,0 +1,13 @@
+{
+  "name": "stentgraft-sizing",
+  "version": "1.0.0",
+  "description": "AAA Stentgraft Sizing Application with Claude AI",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0"
+  }
+}
